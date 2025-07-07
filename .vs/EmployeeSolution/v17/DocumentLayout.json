@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeemvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|solutionrelative:employeemvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|solutionrelative:employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeemvc\\services\\serviceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|solutionrelative:employeemvc\\services\\serviceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeemvc\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|solutionrelative:employeemvc\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeemvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|solutionrelative:employeemvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeemvc\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|solutionrelative:employeemvc\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeemvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|solutionrelative:employeemvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|solutionrelative:employeemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeemvc\\models\\employeegetdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|solutionrelative:employeemvc\\models\\employeegetdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\dtos\\employeegetdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\dtos\\employeegetdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeemvc\\models\\employeecreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25702396-2D07-4209-B1F7-291B6B7247C0}|EmployeeMvc\\EmployeeMvc.csproj|solutionrelative:employeemvc\\models\\employeecreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\dtos\\employeecreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\dtos\\employeecreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\service\\iserviceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\service\\iserviceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\service\\serviceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\mapper\\iemployeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\mapper\\iemployeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\dtos\\employeegetdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\dtos\\employeegetdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\dtos\\employeecreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\dtos\\employeecreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|c:\\users\\micji\\onedrive\\desktop\\charp projects\\employeesolution\\employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{336AEF71-2607-4F71-A754-480B028A8A0F}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -90,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,46 +122,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeMvc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeMvc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T09:16:51.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeMvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\appsettings.json",
+              "RelativeToolTip": "EmployeeMvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T09:16:44.214Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Program.cs",
+              "RelativeToolTip": "EmployeeMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:16:34.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeMvc\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeMvc\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:10:47.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeGetDtos.cs",
+              "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Models\\EmployeeGetDtos.cs",
+              "RelativeDocumentMoniker": "EmployeeMvc\\Models\\EmployeeGetDtos.cs",
+              "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Models\\EmployeeGetDtos.cs",
+              "RelativeToolTip": "EmployeeMvc\\Models\\EmployeeGetDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:03:50.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeCreateDtos.cs",
+              "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Models\\EmployeeCreateDtos.cs",
+              "RelativeDocumentMoniker": "EmployeeMvc\\Models\\EmployeeCreateDtos.cs",
+              "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Models\\EmployeeCreateDtos.cs",
+              "RelativeToolTip": "EmployeeMvc\\Models\\EmployeeCreateDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:03:30.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeeMvc\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "EmployeeMvc\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T08:34:59.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Services\\ServiceEmployee.cs",
-              "RelativeDocumentMoniker": "EmployeeMvc\\Services\\ServiceEmployee.cs",
-              "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Services\\ServiceEmployee.cs",
-              "RelativeToolTip": "EmployeeMvc\\Services\\ServiceEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T08:32:29.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Services\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "EmployeeMvc\\Services\\IEmployeeService.cs",
               "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeMvc\\Services\\IEmployeeService.cs",
               "RelativeToolTip": "EmployeeMvc\\Services\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T08:31:31.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "EmployeeApi\\Properties\\launchSettings.json",
@@ -153,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\WeatherForecastController.cs",
@@ -165,58 +246,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "EmployeeApi\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAIBQwC0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T21:34:25.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T21:34:25.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "ServiceEmployee.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Service\\ServiceEmployee.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Service\\ServiceEmployee.cs",
               "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Service\\ServiceEmployee.cs",
               "RelativeToolTip": "EmployeeApi\\Service\\ServiceEmployee.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAIBJwEkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T19:59:39.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T19:59:39.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "IServiceEmployee.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Service\\IServiceEmployee.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Service\\IServiceEmployee.cs",
               "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Service\\IServiceEmployee.cs",
               "RelativeToolTip": "EmployeeApi\\Service\\IServiceEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T19:58:35.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T19:58:35.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "EmployeeMapper.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Mapper\\EmployeeMapper.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Mapper\\EmployeeMapper.cs",
               "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Mapper\\EmployeeMapper.cs",
               "RelativeToolTip": "EmployeeApi\\Mapper\\EmployeeMapper.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBQwCUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T18:38:33.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "IEmployeeMapper.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Mapper\\IEmployeeMapper.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Mapper\\IEmployeeMapper.cs",
@@ -224,12 +302,11 @@
               "RelativeToolTip": "EmployeeApi\\Mapper\\IEmployeeMapper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T18:38:02.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T18:38:02.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "EmployeeApi.csproj",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\EmployeeApi.csproj",
               "RelativeDocumentMoniker": "EmployeeApi\\EmployeeApi.csproj",
@@ -241,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "EmployeeGetDtos.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Dtos\\EmployeeGetDtos.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Dtos\\EmployeeGetDtos.cs",
@@ -249,12 +326,11 @@
               "RelativeToolTip": "EmployeeApi\\Dtos\\EmployeeGetDtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T18:30:03.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T18:30:03.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "EmployeeCreateDtos.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Dtos\\EmployeeCreateDtos.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Dtos\\EmployeeCreateDtos.cs",
@@ -266,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "20250704182811_CreateTable.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Migrations\\20250704182811_CreateTable.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Migrations\\20250704182811_CreateTable.cs",
@@ -278,20 +354,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "DbRepoService.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Repo\\DbRepoService.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Repo\\DbRepoService.cs",
               "ToolTip": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Repo\\DbRepoService.cs",
               "RelativeToolTip": "EmployeeApi\\Repo\\DbRepoService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAIBQwAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T06:16:27.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T06:16:27.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "IRepoService.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Repo\\IRepoService.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Repo\\IRepoService.cs",
@@ -299,12 +374,11 @@
               "RelativeToolTip": "EmployeeApi\\Repo\\IRepoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T06:13:06.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-04T06:13:06.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Data\\ApplicationDbContext.cs",
@@ -316,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Models\\Employee.cs",
@@ -328,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\appsettings.json",
               "RelativeDocumentMoniker": "EmployeeApi\\appsettings.json",
@@ -340,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micji\\OneDrive\\Desktop\\Charp projects\\EmployeeSolution\\EmployeeApi\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeApi\\Program.cs",

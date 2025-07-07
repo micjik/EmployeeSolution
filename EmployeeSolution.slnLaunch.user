@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EmployeeApi\\EmployeeApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EmployeeMvc\\EmployeeMvc.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
